@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { Card } from "@/components/ui/card";
 
-import CalendarHeader from "./CalendarHeader";
-import CalendarDays from "./CalendarDays";
-import CalendarCells from "./CalendarCells";
+import CalendarHeader from "./calendarHeader";
+import CalendarDays from "./calendarDays";
+import CalendarCells from "./calendarCells";
 import EventPanel from "./EventPanel";
 
 function Calendar() {
