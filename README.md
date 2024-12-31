@@ -1,8 +1,32 @@
-# React + Vite
+# Event Calendar Application
+This is an event calendar application created using ReactJS, shadcn and TailwindCSS 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Add and view events for specific dates.
+- Events are saved to local storage.
+- Ability to export events as JSON or CSV.
+- Responsive layout with user-friendly interface.
 
-Currently, two official plugins are available:
+## Prerequisites
+Before getting started, ensure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/) (version 14 or above)
+- [npm](https://www.npmjs.com/get-npm) (or [Yarn](https://yarnpkg.com/)) for managing dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+### 1. Clone the repository
+Clone the project to your local machine using:
+git clone https://github.com/your-username/event-calendar.git
+
+### 2. Navigate to the project directory
+cd event-calendar
+
+### 3. Install dependencies
+Use npm (or Yarn) to install the required dependencies:
+npm install
+
+### 4. Start the development server
+Run the following command to start the local development server:
+npm run dev
+
+### 5. start the development server at 
+http://localhost:5173
