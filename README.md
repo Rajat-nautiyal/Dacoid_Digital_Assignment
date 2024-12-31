@@ -18,7 +18,7 @@ Clone the project to your local machine using:
 git clone https://github.com/your-username/event-calendar.git
 
 ### 2. Navigate to the project directory
-_cd event-calendar_
+_cd client-side_
 
 ### 3. Install dependencies
 Use npm (or Yarn) to install the required dependencies:
